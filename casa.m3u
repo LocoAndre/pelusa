@@ -3,7 +3,7 @@
 # Built with the CODECS.COM Playlist Builder
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="Peliculas",A&E
-http://200.35.176.154:8000/play/a034/index.m3u8
+http://45.70.168.162:12339/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/AE-Logo-500x281.png" group-title="Peliculas",A&E HD
 http://181.119.185.32:8000/play/a00i/index.m3u8?hls
@@ -48,7 +48,7 @@ http://181.224.255.210:8001/play/a0sy/index.m3u8?hls
 http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/960px-AXN_Logo_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Peliculas",AXN
-http://200.35.176.154:8000/play/a01g/index.m3u8
+http://45.70.168.162:12339/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/960px-AXN_Logo_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Peliculas",AXN HD
 http://138.59.227.20:8000/play/a09e/index.m3u8
@@ -60,7 +60,7 @@ http://200.35.176.154:8000/play/a064/index.m3u8
 http://138.59.227.20:8000/play/a0h0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0502781-20d0-4a44-a630-87a7cc66de93/df7cftm-ebdd36bf-8222-4a34-b1e1-e7972ce87367.png/v1/fill/w_1280,h_340/babyfirst_logo_by_vsegaheroesno_df7cftm-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzQwIiwicGF0aCI6Ii9mL2EwNTAyNzgxLTIwZDAtNGE0NC1hNjMwLTg3YTdjYzY2ZGU5My9kZjdjZnRtLWViZGQzNmJmLTgyMjItNGEzNC1iMWUxLWU3OTcyY2U4NzM2Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AUD31y9fIYyin_fVQxUrNi6cypSx51YVbiPoGsiIblo" group-title="Infantiles",BABY FIRST
-http://200.35.176.154:8000/play/a025/index.m3u8
+http://45.70.168.162:12339/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest/scale-to-width-down/1000?cb=20210422144418" group-title="Infantiles",Baby TV
 http://138.59.227.20:8000/play/a06j/index.m3u8
@@ -138,10 +138,10 @@ http://31.43.191.125:8080/vip261780929190/dcd99ba75cd4/4748
 http://31.43.191.125:8080/vip261780929190/dcd99ba75cd4/128935
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/dazn-laliga-es.png" group-title="Deportes",DAZN LALIGA FHD
-http://31.43.191.125:8080/vip261780929190/dcd99ba75cd4/97193
+http://31.43.191.125:8080/vip261780929190/dcd99ba75cd4/97138
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="Otros paises",DHE
-http://200.35.176.154:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="Otros paises",DHE HD
+http://200.48.65.77:8000/play/a00z
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20240207162957&path-prefix=es" group-title="Documentales",DISCOVERY CHANNEL
 http://200.35.176.154:8000/play/a036/index.m3u8
@@ -150,10 +150,10 @@ http://200.35.176.154:8000/play/a036/index.m3u8
 http://181.119.185.32:8000/play/a01t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Documentales",Discovery H&H
-http://200.35.176.154:8000/play/a03u/index.m3u8
+http://200.48.65.77:8000/play/a00l
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314" group-title="Documentales",DISCOVERY ID HD
-http://200.35.176.154:8000/play/a0rx/index.m3u8
+http://200.48.65.77:8000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantiles",DISCOVERY KIDS
 http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
@@ -210,13 +210,13 @@ http://138.59.227.20:8000/play/a098/index.m3u8
 http://181.119.185.32:8000/play/a009/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="Deportes",ESPN 3 HD
-http://200.35.176.154:8000/play/a054/index.m3u8
+http://181.224.255.210:8001/play/a0ps/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" group-title="Deportes",ESPN 4 SD (españa)
 http://200.35.176.154:8000/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" group-title="Deportes",ESPN 5 SD (españa)
-http://200.35.176.154:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" group-title="Deportes",ESPN 5 HD
+http://181.119.185.32:8000/play/a00n/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="Deportes",ESPN 6 HD
 http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
@@ -450,7 +450,7 @@ http://200.35.176.154:8000/play/a039/index.m3u8
 http://138.59.227.20:8000/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457" group-title="Peliculas",TNT HD
-http://200.35.176.154:8000/play/a0r9/index.m3u8
+http://138.59.227.20:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest?cb=20260620222956" group-title="Novelas",TNT NOVELAS HD
 http://138.59.227.20:8000/play/a08e/index.m3u8
